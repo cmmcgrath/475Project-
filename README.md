@@ -43,3 +43,25 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
 </html>
+
+CSS Component 
+/* myStyle.css*/
+.jumbotron {
+  color: white;
+  background-image: url(backgroundhome.jpeg);
+  background-size: cover;
+      height: 35%;
+      width: 100%;
+font: "Helvetica Neue", Helvetica, sans-serif;
+}
+h2{
+  color: white;
+}
+body {
+  background-color: #3E6099;
+  position: center;
+}
+p{
+  color: #E8E8E8;
+}
+
